@@ -90,7 +90,7 @@ inline __int64 GetFunctionIdxOrPtr2(UFunction* Function)
             neww += bytes[1];
             bytes = neww;
 
-            functionAddyOrOffset = HexToDec(bytes);
+            functionAddyOrOffset = HexToDec(bytes); // note emotes work
             break;
         }
 
