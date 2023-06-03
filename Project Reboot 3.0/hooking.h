@@ -11,7 +11,7 @@ struct FunctionHooks
     void* Original;
     void* Detour;
     bool IsHooked;
-    std::string Name;
+    std::string Name; // TODO: add sypher pk skins
     int Index = -1;
     void** VFT = nullptr;
 };
