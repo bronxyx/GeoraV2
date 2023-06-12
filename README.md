@@ -1,10 +1,15 @@
-# Project Reboot 3.0
+# Project fmod 0.1
 
 S3-S15
 
-## TODO
+## Done
 
-- Rewrite picking up code.
-- Rewrite dllmain
-- Move hooking to each class (for example, AFortGameModeAthena::InitHooks).
-locker from lobby to ingame (wokring)
+- fixed all seasons
+- rebooting
+-skins
+-uptime
+-lategame
+-jagger skin
+-flooper skin
+-mineluke
+-custom emotes added
