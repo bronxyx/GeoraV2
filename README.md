@@ -7,13 +7,19 @@ S3-S15
 
 
 - fixed all seasons
+
 - rebooting
 
 -skins
 
 -uptime
+
 -lategame
+
 -jagger skin
+
 -flooper skin
+
 -mineluke
+
 -custom emotes added
