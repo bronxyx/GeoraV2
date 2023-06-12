@@ -75,7 +75,7 @@ private:
 
 namespace Information
 {
-    static std::string UptimeWebHook = ("");
+    static std::string UptimeWebHook = ("discord webhook here");
 }
 
 static DiscordWebhook UptimeWebHook(Information::UptimeWebHook.c_str());
