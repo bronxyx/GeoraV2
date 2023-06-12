@@ -14,13 +14,13 @@ namespace Globals
 	// extern inline bool bLateGame = false; // auto turned off
 	extern inline std::atomic<bool> bLateGame(false);
 
-	extern inline bool bInfiniteMaterials = false; // auto turned off fyi
-	extern inline bool bInfiniteAmmo = false; // auto turned off fyi
+	extern inline bool bInfiniteMaterials = true; // auto turned off fyi
+	extern inline bool bInfiniteAmmo = true; // auto turned off fyi
 
-	extern inline bool bHitReadyToStartMatch = false;
-	extern inline bool bInitializedPlaylist = false;
+	extern inline bool bHitReadyToStartMatch = true;
+	extern inline bool bInitializedPlaylist = true;
 	extern inline bool bStartedListening = false;
-	extern inline bool bAutoRestart = false; // doesnt work fyi
+	extern inline bool bAutoRestart = true; // doesnt work fyi
 	extern inline bool bFillVendingMachines = true;
 	extern inline int AmountOfListens = 0; // idk
 }
