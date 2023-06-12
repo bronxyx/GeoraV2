@@ -151,7 +151,7 @@ void Deop(APlayerController* PlayerController)
 
 	if (ipToRemove != -1)
 	{
-		std::ofstream stream("op-ips.json", std::ios::ate);
+		std::ofstream stream("op-ips.json", std::ios::ate); // changed ips
 		for (int i = 0; i < lines.size(); i++)
 		{
 			if (i != ipToRemove - 1)
