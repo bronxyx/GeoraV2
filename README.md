@@ -6,7 +6,7 @@ S3-S15
 
 
 
-- fixed all seasons
+-fixed 19.10 team stuff aswell
 
 - rebooting
 
